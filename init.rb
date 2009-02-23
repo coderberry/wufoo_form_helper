@@ -1,0 +1,1 @@
+require 'wufoo_form_helper'
